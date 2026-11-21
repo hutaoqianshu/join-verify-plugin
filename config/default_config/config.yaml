@@ -1,0 +1,25 @@
+blacklistThreshold: 10
+blacklistDuration: 3600
+blacklistEnabled: true
+apiCheckInterval: 600
+notificationGroup: ""
+virtualNumberPrefix:
+  - "170"
+  - "172"
+  - "173"
+  - "162"
+  - "165"
+  - "167"
+  - "171"
+  - "174"
+  - "166"
+  - "176"
+  - "185"
+  - "186"
+  - "198"
+  - "199"
+diversionEnabled: true
+diversionIndex: ""
+diversionGroupId: ""
+diversionText: "本群已满，请加{index}群{groupId}"
+leaveUserAdminQQ: ""
