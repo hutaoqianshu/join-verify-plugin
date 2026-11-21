@@ -19,7 +19,7 @@ Yunzai-Bot 入群审核插件：手机号 + 游戏 ID 双重校验，配合红�
 
 ```bash
 cd Yunzai-Bot/plugins
-git clone https://github.com/<your-name>/join-verify-plugin.git
+git clone https://github.com/hutaoqianshu/join-verify-plugin.git
 ```
 
 2. 安装依赖
